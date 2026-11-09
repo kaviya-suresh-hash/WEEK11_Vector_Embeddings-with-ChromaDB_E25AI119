@@ -1,0 +1,383 @@
+Query,Search_Type,Rank,Source,Document,Score
+How does education help students?,Semantic Search,1,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",0.6416221857070923
+How does education help students?,Semantic Search,2,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",0.9311501979827881
+How does education help students?,Semantic Search,3,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",0.9600472450256348
+How does education help students?,Semantic Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",0.9633941054344177
+How does education help students?,Semantic Search,5,document8.txt,"Inclusive education ensures that all students
+get equal learning opportunities. It supports
+students with different learning needs and
+encourages respect, participation, and equality.",1.0126250982284546
+How does education help students?,Keyword Search,1,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",3.0
+How does education help students?,Keyword Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",2.0
+How does education help students?,Keyword Search,3,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",2.0
+How does education help students?,Keyword Search,4,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",2.0
+How does education help students?,Keyword Search,5,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",2.0
+What are the benefits of online learning?,Semantic Search,1,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",0.4563544988632202
+What are the benefits of online learning?,Semantic Search,2,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",0.74285489320755
+What are the benefits of online learning?,Semantic Search,3,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",0.9067178964614868
+What are the benefits of online learning?,Semantic Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.041938304901123
+What are the benefits of online learning?,Semantic Search,5,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.261049747467041
+What are the benefits of online learning?,Keyword Search,1,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",3.0
+What are the benefits of online learning?,Keyword Search,2,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",3.0
+What are the benefits of online learning?,Keyword Search,3,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",2.0
+What are the benefits of online learning?,Keyword Search,4,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",1.0
+What are the benefits of online learning?,Keyword Search,5,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",1.0
+How is artificial intelligence used in education?,Semantic Search,1,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",0.4898999035358429
+How is artificial intelligence used in education?,Semantic Search,2,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.003245234489441
+How is artificial intelligence used in education?,Semantic Search,3,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.0534483194351196
+How is artificial intelligence used in education?,Semantic Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.1506413221359253
+How is artificial intelligence used in education?,Semantic Search,5,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.2726308107376099
+How is artificial intelligence used in education?,Keyword Search,1,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",6.0
+How is artificial intelligence used in education?,Keyword Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",3.0
+How is artificial intelligence used in education?,Keyword Search,3,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",2.0
+How is artificial intelligence used in education?,Keyword Search,4,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",2.0
+How is artificial intelligence used in education?,Keyword Search,5,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.0
+Why is classroom learning important?,Semantic Search,1,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",0.6415603160858154
+Why is classroom learning important?,Semantic Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",0.9156230688095093
+Why is classroom learning important?,Semantic Search,3,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.0407514572143555
+Why is classroom learning important?,Semantic Search,4,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",1.0496758222579956
+Why is classroom learning important?,Semantic Search,5,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.1290282011032104
+Why is classroom learning important?,Keyword Search,1,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",2.0
+Why is classroom learning important?,Keyword Search,2,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",2.0
+Why is classroom learning important?,Keyword Search,3,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",2.0
+Why is classroom learning important?,Keyword Search,4,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",2.0
+Why is classroom learning important?,Keyword Search,5,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",1.0
+How does technology improve education?,Semantic Search,1,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",0.5723097920417786
+How does technology improve education?,Semantic Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",0.9122556447982788
+How does technology improve education?,Semantic Search,3,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.0519802570343018
+How does technology improve education?,Semantic Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.0770678520202637
+How does technology improve education?,Semantic Search,5,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",1.105470895767212
+How does technology improve education?,Keyword Search,1,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",2.0
+How does technology improve education?,Keyword Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.0
+How does technology improve education?,Keyword Search,3,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",1.0
+How does technology improve education?,Keyword Search,4,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.0
+How does technology improve education?,Keyword Search,5,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",1.0
+What is the importance of higher education?,Semantic Search,1,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",0.6320189237594604
+What is the importance of higher education?,Semantic Search,2,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",0.7254931926727295
+What is the importance of higher education?,Semantic Search,3,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",1.169400930404663
+What is the importance of higher education?,Semantic Search,4,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.1909878253936768
+What is the importance of higher education?,Semantic Search,5,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",1.242897629737854
+What is the importance of higher education?,Keyword Search,1,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",4.0
+What is the importance of higher education?,Keyword Search,2,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",3.0
+What is the importance of higher education?,Keyword Search,3,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",2.0
+What is the importance of higher education?,Keyword Search,4,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",2.0
+What is the importance of higher education?,Keyword Search,5,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.0
+How do teachers evaluate student performance?,Semantic Search,1,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",0.7089402675628662
+How do teachers evaluate student performance?,Semantic Search,2,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",1.114640235900879
+How do teachers evaluate student performance?,Semantic Search,3,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.3043007850646973
+How do teachers evaluate student performance?,Semantic Search,4,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.3139703273773193
+How do teachers evaluate student performance?,Semantic Search,5,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.3996460437774658
+How do teachers evaluate student performance?,Keyword Search,1,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",4.0
+How do teachers evaluate student performance?,Keyword Search,2,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.0
+How do teachers evaluate student performance?,Keyword Search,3,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",0.0
+How do teachers evaluate student performance?,Keyword Search,4,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",0.0
+How do teachers evaluate student performance?,Keyword Search,5,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",0.0
+What is inclusive education?,Semantic Search,1,document8.txt,"Inclusive education ensures that all students
+get equal learning opportunities. It supports
+students with different learning needs and
+encourages respect, participation, and equality.",0.2620646357536316
+What is inclusive education?,Semantic Search,2,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",1.196202278137207
+What is inclusive education?,Semantic Search,3,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.2111718654632568
+What is inclusive education?,Semantic Search,4,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.2376023530960083
+What is inclusive education?,Semantic Search,5,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.396728515625
+What is inclusive education?,Keyword Search,1,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",2.0
+What is inclusive education?,Keyword Search,2,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",2.0
+What is inclusive education?,Keyword Search,3,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",2.0
+What is inclusive education?,Keyword Search,4,document8.txt,"Inclusive education ensures that all students
+get equal learning opportunities. It supports
+students with different learning needs and
+encourages respect, participation, and equality.",2.0
+What is inclusive education?,Keyword Search,5,document6.txt,"Higher education provides advanced knowledge
+and specialized skills in different fields.
+Universities and colleges offer degree programs
+that prepare students for professional careers
+and future opportunities.",1.0
+What are the benefits of distance education?,Semantic Search,1,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",0.5834876298904419
+What are the benefits of distance education?,Semantic Search,2,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",0.9894483089447021
+What are the benefits of distance education?,Semantic Search,3,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.0034562349319458
+What are the benefits of distance education?,Semantic Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.173532247543335
+What are the benefits of distance education?,Semantic Search,5,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.1973164081573486
+What are the benefits of distance education?,Keyword Search,1,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",3.0
+What are the benefits of distance education?,Keyword Search,2,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",2.0
+What are the benefits of distance education?,Keyword Search,3,document9.txt,"Distance education allows students to learn
+without attending a physical classroom. It uses
+online classes, recorded lectures, and digital
+materials to make education accessible.",2.0
+What are the benefits of distance education?,Keyword Search,4,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.0
+What are the benefits of distance education?,Keyword Search,5,document3.txt,"Artificial Intelligence is a technology that
+enables machines to perform tasks that normally
+require human intelligence. It is used in
+education to provide personalized learning,
+automated grading, and intelligent tutoring.",1.0
+How can students improve their study habits?,Semantic Search,1,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",0.3530501425266266
+How can students improve their study habits?,Semantic Search,2,document7.txt,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",1.0480351448059082
+How can students improve their study habits?,Semantic Search,3,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.0955007076263428
+How can students improve their study habits?,Semantic Search,4,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.2529551982879639
+How can students improve their study habits?,Semantic Search,5,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",1.271650791168213
+How can students improve their study habits?,Keyword Search,1,document10.txt,"Good study habits help students achieve
+academic success. Time management, regular
+revision, note-taking, and active participation
+improve understanding and learning outcomes.",4.0
+How can students improve their study habits?,Keyword Search,2,document2.txt,"Online learning allows students to study through
+the internet. It provides flexibility, saves time,
+and gives access to digital learning resources.
+Students can attend classes from anywhere using
+computers and mobile devices.",3.0
+How can students improve their study habits?,Keyword Search,3,document1.txt,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",1.0
+How can students improve their study habits?,Keyword Search,4,document4.txt,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",1.0
+How can students improve their study habits?,Keyword Search,5,document5.txt,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",1.0

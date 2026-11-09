@@ -1,0 +1,21 @@
+OBSERVATIONS
+
+1. Semantic search identifies documents based on meaning.
+
+2. Keyword search identifies documents based on matching words.
+
+3. Semantic search retrieves relevant documents even when exact words differ.
+
+4. Keyword search works well when query words match document content.
+
+5. ChromaDB successfully retrieves the Top-5 documents for all 10 queries.
+
+6. Embeddings are generated using all-MiniLM-L6-v2.
+
+7. Metadata helps identify the category and source of each document.
+
+CONCLUSION:
+
+Semantic search provides better context-based retrieval,
+while keyword search is useful for exact word matching.
+Both methods are useful for document retrieval.

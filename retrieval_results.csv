@@ -1,0 +1,19 @@
+Query,Document,Category,Source,Distance
+How does education help students?,"Education is the process of gaining knowledge, skills, and values. It helps students develop critical thinking, communication, and problem-solving abilities. Education plays an important role in personal growth and career development.",Education,document1.txt,0.6416221857070923
+How does education help students?,"Educational technology improves the learning
+experience through digital tools and applications.
+Smart boards, educational videos, and online
+platforms help students understand complex topics
+and learn more effectively.",Education,document5.txt,0.9311501979827881
+How does education help students?,"Student assessment is an important part of
+education. Tests, assignments, and projects help
+teachers evaluate student performance and
+identify areas where students need improvement.",Education,document7.txt,0.9600472450256348
+How does education help students?,"Traditional classroom learning allows students
+to interact directly with teachers and classmates.
+It encourages teamwork, communication, discipline,
+and active participation in educational activities.",Education,document4.txt,0.9633941054344177
+How does education help students?,"Inclusive education ensures that all students
+get equal learning opportunities. It supports
+students with different learning needs and
+encourages respect, participation, and equality.",Education,document8.txt,1.0126250982284546
